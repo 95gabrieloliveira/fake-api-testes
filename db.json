@@ -1,0 +1,15 @@
+{
+    "cidades":[
+        {"id":1, "cidade":"São Paulo"},
+        {"id":2, "cidade":"Santos"},
+        {"id":3, "cidade":"Rio de Janeiro"}
+    ],
+    "usuarios":[
+    { "id": 1, "nome": "Marcela da Silva", "cidade":1},
+    { "id": 2, "nome": "José Gabriel", "cidade":2},
+    { "id": 3, "nome": "Joyce Gonçalves", "cidade":3}
+    ],
+    "empresa": {
+        "nome": "Gabriel Oliveira LTDA"
+    }
+}
